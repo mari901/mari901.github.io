@@ -1,3 +1,4 @@
+
 ---
 layout: default
 ---
@@ -10,15 +11,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Introduction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi I'm Mari. I study linguistics at the University of Helsinki.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Find me on
+  
+You can find me on the follow social medias:
+ - [Github](https://github.com/mari901)
 
 ### Header 3
 
@@ -36,8 +36,14 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+# Projects
 
-#### Header 4
+Projects I've worked on:
+
+- [**cmdline-course**](https://github.com/mari901/cmdline-course)
+  - Small project where I've learned the basics of git and Make files
+
+#### Courses I've Taken
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
