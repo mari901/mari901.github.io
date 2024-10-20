@@ -19,23 +19,9 @@ Hi I'm Mari. I study linguistics at the University of Helsinki.
   
 You can find me on the follow social medias:
  - [Github](https://github.com/mari901)
+ - [LinkedIn](https://www.linkedin.com/in/mari-soares-662477334/)
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 # Projects
 
 Projects I've worked on:
@@ -43,44 +29,14 @@ Projects I've worked on:
 - [**cmdline-course**](https://github.com/mari901/cmdline-course)
   - Small project where I've learned the basics of git and Make files
 
-#### Courses I've Taken
+# Courses I've Taken
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [**Johdatusta yleiseen kirjallisuustieteeseen**](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2324-f5167336-2442-4887-8ef4-46902541fc94/KIK-418)
+*   [**Yleisen kielitieteen ja fonetiikan johdantokurssi**](https://studies.helsinki.fi/kurssit/opintojakso/hy-CU-118591680-2021-08-01/KIK-401/Yleisen_kielitieteen_ja_fonetiikan_johdantokurssi)
+*   [**Johdatus kieliteknologiaan**](https://studies.helsinki.fi/kurssit/opintojakso/otm-96b452f8-1f60-4696-8f0e-50559973b315?cpId=hy-lv-74)
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
@@ -101,10 +57,6 @@ Projects I've worked on:
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
