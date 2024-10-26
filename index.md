@@ -42,8 +42,7 @@ My CV can be seen [here](./assets/documents/Clean_CV.pdf)
 
 # Misc.
 
-[**University of Helsinki's language technology blog site**]
-(https://blogs.helsinki.fi/language-technology)
+[**University of Helsinki's language technology blog site**](https://blogs.helsinki.fi/language-technology)
 
 
 ### And a nested list:
