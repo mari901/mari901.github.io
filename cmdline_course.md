@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /cmdline_course
 ---
 
 # Command-Line Tools for Linguists Course Overview
