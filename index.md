@@ -4,7 +4,14 @@ layout: default
 
 # Introduction
 
-Hi I'm Mari. I'm a linguistics student focusing on language technology. I study at the University of Helsinki.
+<div style="display: flex; align-items: center;">
+  <div style="flex-grow: 1; padding-right: 20px; text-align: left;">
+    <p>Hi I'm Mari. I'm a linguistics student focusing on language technology. I study at the University of Helsinki.</p>
+  </div>
+  <div>
+    <img src="{{ '/assets/images/duck.jpg' | relative_url }}" alt="How to ReGex" width="150" height="150"/>
+  </div>
+</div>
 
 ## Find me on
   
